@@ -1,0 +1,33 @@
+{
+    "login":{
+        "headers":{
+            "Request URL": "https://login.salesforce.com/",
+            "Request Method": "POST",
+            "Status Code": 200
+        },
+        "payload":{
+            "un": "username@mail.com.br",
+            "width": 1920,
+            "height": 1080,
+            "hasRememberUn": true,
+            "startURL": "",
+            "loginURL": null,
+            "loginType": "",
+            "useSecure": true,
+            "local": "",
+            "lt": "standard",
+            "qs": "",
+            "locale": "",
+            "oauth_token": "",
+            "oauth_callback": "",
+            "login": "",
+            "serverid": "",
+            "display": "page",
+            "username": "username@mail.com.br",
+            "ExtraLog": "%5B%7B%22width%22:1920%7D,%7B%22height%22:1080%7D,%7B%22language%22:%22en%22%7D,%7B%22offset%22:3%7D,%7B%22scripts%22:%5B%7B%22size%22:249,%22summary%22:%22if%20(self%20==%20top)%20%7Bdocument.documentElement.style.v%22%7D,%7B%22size%22:528,%22summary%22:%22var%20SFDCSessionVars=%7B%5C%22server%5C%22:%5C%22https:%5C%5C/%5C%5C/login.sal%22%7D,%7B%22url%22:%22https://login.salesforce.com/jslibrary/SfdcSessionBase208.js%22%7D,%7B%22url%22:%22https://login.salesforce.com/jslibrary/LoginHint208.js%22%7D,%7B%22size%22:26,%22summary%22:%22LoginHint.hideLoginForm();%22%7D,%7B%22size%22:36,%22summary%22:%22LoginHint.getSavedIdentities(false);%22%7D,%7B%22url%22:%22https://login.salesforce.com/jslibrary/baselogin4.js%22%7D,%7B%22url%22:%22https://login.salesforce.com/jslibrary/LoginMarketingSurveyResponse.js%22%7D,%7B%22size%22:451,%22summary%22:%22function%20handleLogin()%7Bdocument.login.un.value=doc%22%7D%5D%7D,%7B%22scriptCount%22:9%7D,%7B%22iframes%22:%5B%22https://c.salesforce.com/login-messages/promos.html%22,%22https://login.salesforce.com/login/sessionserver212.html%22%5D%7D,%7B%22iframeCount%22:2%7D,%7B%22referrer%22:%22https://login.salesforce.com/%22%7D%5D",
+            "pw": "passwords"
+        }
+
+    }
+
+}
